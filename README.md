@@ -10,6 +10,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deeptikumari585/test-gfg/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Deeptikumari585/test-gfg/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Deeptikumari585/test-gfg/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Deeptikumari585/test-gfg/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Deeptikumari585/test-gfg/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/Deeptikumari585/test-gfg/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -49,4 +50,8 @@
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Deeptikumari585/test-gfg/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deeptikumari585/test-gfg/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Deeptikumari585/test-gfg/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
