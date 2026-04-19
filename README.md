@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Deeptikumari585/test-gfg/tree/master/0088-merge-sorted-array) |
+| [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeptikumari585/test-gfg/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deeptikumari585/test-gfg/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deeptikumari585/test-gfg/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Deeptikumari585/test-gfg/tree/master/0088-merge-sorted-array) |
+| [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deeptikumari585/test-gfg/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Deeptikumari585/test-gfg/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deeptikumari585/test-gfg/tree/master/1929-concatenation-of-array) |
@@ -56,4 +59,12 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Deeptikumari585/test-gfg/tree/master/1732-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
