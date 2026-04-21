@@ -12,6 +12,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Deeptikumari585/test-gfg/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Deeptikumari585/test-gfg/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Deeptikumari585/test-gfg/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/Deeptikumari585/test-gfg/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Deeptikumari585/test-gfg/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Deeptikumari585/test-gfg/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Deeptikumari585/test-gfg/tree/master/1920-build-array-from-permutation) |
@@ -70,4 +71,5 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/Deeptikumari585/test-gfg/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
