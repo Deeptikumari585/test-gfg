@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Deeptikumari585/test-gfg/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Deeptikumari585/test-gfg/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deeptikumari585/test-gfg/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -31,6 +32,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Deeptikumari585/test-gfg/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deeptikumari585/test-gfg/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deeptikumari585/test-gfg/tree/master/1389-create-target-array-in-the-given-order) |
@@ -72,6 +74,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Deeptikumari585/test-gfg/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Deeptikumari585/test-gfg/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
