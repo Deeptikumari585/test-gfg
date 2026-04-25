@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/Deeptikumari585/test-gfg/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Deeptikumari585/test-gfg/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Deeptikumari585/test-gfg/tree/master/0832-flipping-an-image) |
+| [0989-add-to-array-form-of-integer](https://github.com/Deeptikumari585/test-gfg/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deeptikumari585/test-gfg/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deeptikumari585/test-gfg/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deeptikumari585/test-gfg/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -47,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/Deeptikumari585/test-gfg/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deeptikumari585/test-gfg/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deeptikumari585/test-gfg/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Deeptikumari585/test-gfg/tree/master/1512-number-of-good-pairs) |
